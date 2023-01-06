@@ -12,18 +12,18 @@ The app has two folders:
 In local:
 
 #### Start the server
-`cd server`
-`cp .env.sample .env`
-`vim .env` (or any other editor you like, but we are tough so we use vim)
-`yarn`
-`yarn start`
+- `cd server`
+- `cp .env.sample .env`
+- `vim .env` (or any other editor you like, but we are tough so we use vim)
+- `yarn`
+- `yarn start`
 
 #### Start the client
-`cd client`
-`cp .env.sample .env`
-`vim .env`
-`yarn`
-`yarn start`
+- `cd client`
+- `cp .env.sample .env`
+- `vim .env`
+- `yarn`
+- `yarn start`
 
 ### Why
 I wanted to share my workout extensive schedule with my friends in order to workout together, but it would be too chaotic to share the events one by one or too hard to keep up to date with the schedule changes.
@@ -33,3 +33,6 @@ Also it happened a couple of times that I got myself confused with the workout l
 - Add Google Calendar support
 - Dockerize it
 - Add docs on how to deploy
+
+### Disclaimer
+This project is just for fun and it is not affiliated with BEAT81

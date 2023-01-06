@@ -1,9 +1,9 @@
-# b81-assistant
+# 🤖 b81-assistant
 A simple assistant to improve the BEAT81 experience.
 
 With b81-assistant you can create a public profile to share workouts with friends and auto-sync your schedule with the Google Calendar (including when you cancel a workout)
 
-### Getting started
+## Getting started
 
 The app has two folders:
 - The server app is just a NodeJS server that fetches the events and caches them to then serve them to the client.
@@ -25,14 +25,14 @@ In local:
 - `yarn`
 - `yarn start`
 
-### Why
+## Why
 I wanted to share my workout extensive schedule with my friends in order to workout together, but it would be too chaotic to share the events one by one or too hard to keep up to date with the schedule changes.
 Also it happened a couple of times that I got myself confused with the workout location, ending up at the wrong location. So Google Calendar can definitely be of help here.
 
-### Todo:
+## Todo:
 - Add Google Calendar support
 - Dockerize it
 - Add docs on how to deploy
 
-### Disclaimer
+# Disclaimer
 This project is just for fun and it is not affiliated with BEAT81
